@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body { 
+    background-color:#131313;
+}
+
+h1 { 
+    color: white;
+    font-family: Roboto;
+}
+
+h2 {
+    color: slateblue;
+}
+
+
+.media-picture { 
+    max-width: 100%;
+    max-height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+.review-score { 
+    background-color: #e6bd09;
+    color: white;
+    padding: 12px;
+}
+
+p {
+    color: #bdbdbd;
+    font-family: Roboto; 
+}
+
+a {
+    color: yellow
+}
